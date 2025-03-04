@@ -1,0 +1,16 @@
+payload:
+- PROCESS-NAME,com.baidu.netdisk
+- PROCESS-NAME,com.miui.notes
+- PROCESS-NAME,tv.danmaku.bili
+- PROCESS-NAME,com.cainiao.wireless
+- PROCESS-NAME,com.xiaomi.finddevice
+- PROCESS-NAME,com.miui.contentextension
+- PROCESS-NAME,com.dlmetro.app
+- PROCESS-NAME,com.dianping.v1
+- PROCESS-NAME,com.duokan.reader
+- PROCESS-NAME,com.autonavi.minimap
+- PROCESS-NAME,com.milink.service
+- PROCESS-NAME,com.pandbus.android.jilinxing
+- PROCESS-NAME,com.jsb.gov.cn2
+- PROCESS-NAME,com.jingdong.app.mall
+- PROCESS-NAME,com.yek.android.kfc.activitys
