@@ -1,0 +1,24 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "package_name": [
+                "com.baidu.netdisk",
+                "com.miui.notes",
+                "tv.danmaku.bili",
+                "com.cainiao.wireless",
+                "com.xiaomi.finddevice",
+                "com.miui.contentextension",
+                "com.dlmetro.app",
+                "com.dianping.v1",
+                "com.duokan.reader",
+                "com.autonavi.minimap",
+                "com.milink.service",
+                "com.pandbus.android.jilinxing",
+                "com.jsb.gov.cn2",
+                "com.jingdong.app.mall",
+                "com.yek.android.kfc.activitys"
+            ]
+        }
+    ]
+}
