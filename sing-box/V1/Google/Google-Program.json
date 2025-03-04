@@ -1,0 +1,19 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "process_name": [
+                "GoogleDriveFS.exe",
+                "BackupandSync"
+            ]
+        },
+        {
+            "package_name": [
+                "com.android.vending",
+                "com.google.android.gms",
+                "com.google.android.gsf",
+                "com.google.android.play.games"
+            ]
+        }
+    ]
+}
