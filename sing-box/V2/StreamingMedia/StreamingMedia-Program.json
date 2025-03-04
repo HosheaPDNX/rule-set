@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "rules": [
+        {
+            "package_name": [
+                "com.viu.pad",
+                "com.viu.phone",
+                "com.vuclip.viu"
+            ]
+        }
+    ]
+}
