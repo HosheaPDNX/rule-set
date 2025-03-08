@@ -338,6 +338,7 @@ payload:
 - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
 - DOMAIN-SUFFIX,steamcommunity.com
+- DOMAIN-SUFFIX,steamcontent.com
 - DOMAIN-SUFFIX,steamcontent.tnkjmec.com
 - DOMAIN-SUFFIX,steamdeck.com
 - DOMAIN-SUFFIX,steamgames.com
