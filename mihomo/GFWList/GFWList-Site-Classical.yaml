@@ -38541,6 +38541,7 @@ payload:
 - DOMAIN-SUFFIX,linotype.com
 - DOMAIN-SUFFIX,linpie.com
 - DOMAIN-SUFFIX,linseysworld.com
+- DOMAIN-SUFFIX,linux.do
 - DOMAIN-SUFFIX,linux.org
 - DOMAIN-SUFFIX,linux.org.hk
 - DOMAIN-SUFFIX,linuxfoundation.org
@@ -41149,6 +41150,7 @@ payload:
 - DOMAIN-SUFFIX,nobelprize.org
 - DOMAIN-SUFFIX,nobodycanstop.us
 - DOMAIN-SUFFIX,nodejs.org
+- DOMAIN-SUFFIX,nodeseek.com
 - DOMAIN-SUFFIX,nodesnoop.com
 - DOMAIN-SUFFIX,nodesource.com
 - DOMAIN-SUFFIX,nofile.io
