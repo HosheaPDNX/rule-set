@@ -27,4 +27,5 @@ payload:
 - '+.openaicom.imgix.net'
 - '+.segment.io'
 - '+.sentry.io'
+- '+.sora.com'
 - '+.turn.livekit.cloud'

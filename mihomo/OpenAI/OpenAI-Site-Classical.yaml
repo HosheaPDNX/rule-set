@@ -27,5 +27,6 @@ payload:
 - DOMAIN-SUFFIX,openaicom.imgix.net
 - DOMAIN-SUFFIX,segment.io
 - DOMAIN-SUFFIX,sentry.io
+- DOMAIN-SUFFIX,sora.com
 - DOMAIN-SUFFIX,turn.livekit.cloud
 - DOMAIN-KEYWORD,openai
