@@ -1,0 +1,179 @@
+[
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [
+      "geoip:private"
+    ],
+    "enabled": true,
+    "remarks": "\u3010DO NOT MODIFY\u3011Local-IP",
+    "ruleType": 1
+  },
+  {
+    "port": "443",
+    "network": "udp",
+    "outboundTag": "block",
+    "protocol": [
+      "quic"
+    ],
+    "enabled": true,
+    "remarks": "\u3010DO NOT MODIFY\u3011Block QUIC",
+    "ruleType": 1
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "domain": [
+      "full:ntp.aliyun.com"
+    ],
+    "enabled": true,
+    "remarks": "\u3010DO NOT MODIFY\u3011Ali NTP",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "domain": [
+      "full:violet.sakuraikaede.com"
+    ],
+    "enabled": true,
+    "remarks": "\u3010DO NOT MODIFY\u3011Config Download",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:msftconnecttest.com",
+      "domain:msftncsi.com"
+    ],
+    "enabled": true,
+    "remarks": "\u3010DO NOT MODIFY\u3011Microsoft Connect TEST",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "domain:googleapis.com",
+      "domain:googleapis.cn"
+    ],
+    "enabled": true,
+    "remarks": "\u3010DO NOT MODIFY\u3011Google APIS",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:category-ai-!cn"
+    ],
+    "enabled": true,
+    "remarks": "\uD83E\uDD16AI",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:bahamut"
+    ],
+    "enabled": true,
+    "remarks": "\uD83C\uDF38Bahamut",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "domain": [
+      "geosite:bilibili"
+    ],
+    "enabled": true,
+    "remarks": "\uD83D\uDCFABilibili",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:discord"
+    ],
+    "enabled": true,
+    "remarks": "\uD83C\uDF99\uFE0FDiscord",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:pixiv"
+    ],
+    "enabled": true,
+    "remarks": "\uD83C\uDFA8Pixiv",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:apple"
+    ],
+    "enabled": true,
+    "remarks": "\uD83C\uDF4EApple",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:google"
+    ],
+    "enabled": true,
+    "remarks": "\uD83D\uDD0DGoogle",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "domain": [
+      "geosite:microsoft"
+    ],
+    "enabled": true,
+    "remarks": "\uD83D\uDCBBMicrosoft",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "proxy",
+    "ip": [
+      "geoip:telegram"
+    ],
+    "domain": [
+      "geosite:telegram"
+    ],
+    "enabled": true,
+    "remarks": "\u2708\uFE0FTelegram",
+    "ruleType": 0
+  },
+  {
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [
+      "geoip:cn"
+    ],
+    "domain": [
+      "geosite:cn"
+    ],
+    "enabled": true,
+    "remarks": "\uD83C\uDDE8\uD83C\uDDF3China Services",
+    "ruleType": 0
+  },
+  {
+    "port": "1-65535",
+    "network": "tcp,udp",
+    "outboundTag": "proxy",
+    "enabled": true,
+    "remarks": "Final",
+    "ruleType": 0
+  }
+]
