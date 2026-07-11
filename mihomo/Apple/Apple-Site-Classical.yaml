@@ -4,7 +4,6 @@ payload:
 - DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 - DOMAIN,beatselectronicsllc.tt.omtrdc.net
 - DOMAIN,configuration-lb.ls-apple.com.akadns.net
-- DOMAIN,ingest.apple-studies.com
 - DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
 - DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
 - DOMAIN,p-events-delivery.akamaized.net
@@ -101,6 +100,7 @@ payload:
 - DOMAIN-SUFFIX,apple-pay.wang
 - DOMAIN-SUFFIX,apple-store.net
 - DOMAIN-SUFFIX,apple-store.wang
+- DOMAIN-SUFFIX,apple-studies.com
 - DOMAIN-SUFFIX,apple-usa.net
 - DOMAIN-SUFFIX,apple-watch.com.ru
 - DOMAIN-SUFFIX,apple.ae
