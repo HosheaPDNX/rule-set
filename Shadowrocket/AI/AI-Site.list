@@ -77,6 +77,8 @@ DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepwiki.com
+DOMAIN-SUFFIX,deepwiki.org
 DOMAIN-SUFFIX,devin.ai
 DOMAIN-SUFFIX,diabrowser.com
 DOMAIN-SUFFIX,diabrowser.engineering
@@ -97,8 +99,11 @@ DOMAIN-SUFFIX,gemini.gstatic.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,h2o.ai
 DOMAIN-SUFFIX,hf.co
@@ -106,6 +111,7 @@ DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,host.livekit.cloud
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,jules.google
 DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,kiro.dev
@@ -125,6 +131,7 @@ DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,mozilla.ai
+DOMAIN-SUFFIX,notebook.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,oaistatic.com
