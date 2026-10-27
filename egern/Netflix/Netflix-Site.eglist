@@ -1,9 +1,8 @@
-domain_set:
-  - netflix.com.edgesuite.net
 domain_suffix_set:
   - fast.com
   - netflix.ca
   - netflix.com
+  - netflix.com.edgesuite.net
   - netflix.net
   - netflixdnstest0.com
   - netflixdnstest1.com

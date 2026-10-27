@@ -44,6 +44,8 @@ payload:
 - DOMAIN,download.mlcc.google.com
 - DOMAIN,download.tensorflow.google.com
 - DOMAIN,firebase-settings.crashlytics.com
+- DOMAIN,firebaselogging-pa.googleapis.com
+- DOMAIN,firebaselogging.googleapis.com
 - DOMAIN,fontfiles.googleapis.com
 - DOMAIN,fonts.googleapis.com
 - DOMAIN,fonts.gstatic.com

@@ -11,6 +11,8 @@ DOMAIN,collaborateppe.download.prss.microsoft.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,ctldl.windowsupdate.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,dc.services.visualstudio.com
 DOMAIN,developer.microsoft.com
 DOMAIN,download.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
@@ -30,6 +32,7 @@ DOMAIN,itacademy.download.prss.microsoft.com
 DOMAIN,itacademyuat.download.prss.microsoft.com
 DOMAIN,lex.download.prss.microsoft.com
 DOMAIN,lexuat.download.prss.microsoft.com
+DOMAIN,live.applicationinsights.azure.com
 DOMAIN,mbs.download.prss.microsoft.com
 DOMAIN,mpnbenefits.download.prss.microsoft.com
 DOMAIN,mpnbenefitsrtl.download.prss.microsoft.com
@@ -48,6 +51,7 @@ DOMAIN,officemktuat.download.prss.microsoft.com
 DOMAIN,osrelease.download.prss.microsoft.com
 DOMAIN,rink.hockeyapp.net
 DOMAIN,rsm.download.prss.microsoft.com
+DOMAIN,rt.services.visualstudio.com
 DOMAIN,sdx.microsoft.com
 DOMAIN,shell.cdn.office.net
 DOMAIN,software.download.prss.microsoft.com
@@ -86,7 +90,6 @@ DOMAIN-SUFFIX,applicationinsights.io
 DOMAIN-SUFFIX,applicationinsights.net
 DOMAIN-SUFFIX,appserviceenvironment.cn
 DOMAIN-SUFFIX,aria.ms
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,asp.net
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,atom.io
@@ -215,6 +218,7 @@ DOMAIN-SUFFIX,breakdown.me
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,c-msedge.net
+DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,cegid-cloud.cn
 DOMAIN-SUFFIX,centralvalidation.com
@@ -241,6 +245,7 @@ DOMAIN-SUFFIX,cosmosdb.net
 DOMAIN-SUFFIX,crmdynint-gcc.com
 DOMAIN-SUFFIX,crmdynint.com
 DOMAIN-SUFFIX,crossborderexpansion.com
+DOMAIN-SUFFIX,data.microsoft.com
 DOMAIN-SUFFIX,dcg.microsoft.com
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,devopsassessment.net
@@ -260,7 +265,6 @@ DOMAIN-SUFFIX,engkoo.com
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,fasttrackreadysupport.com
 DOMAIN-SUFFIX,femalefounderscomp.com
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,fluidpreview.com
 DOMAIN-SUFFIX,footprintdns.com
@@ -313,6 +317,7 @@ DOMAIN-SUFFIX,ie11.com
 DOMAIN-SUFFIX,ie8.co
 DOMAIN-SUFFIX,ie9.com
 DOMAIN-SUFFIX,imaginecup.pl
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN-SUFFIX,ingads.com
 DOMAIN-SUFFIX,insiderdevtour.com
 DOMAIN-SUFFIX,internetexplorer.co
@@ -628,6 +633,7 @@ DOMAIN-SUFFIX,sysinternals.com
 DOMAIN-SUFFIX,t-msedge.net
 DOMAIN-SUFFIX,tailwindtraders.com
 DOMAIN-SUFFIX,techhub.ms
+DOMAIN-SUFFIX,telemetry.microsoft.com
 DOMAIN-SUFFIX,tellmewhygame.com
 DOMAIN-SUFFIX,tfsallin.net
 DOMAIN-SUFFIX,th.bing.com

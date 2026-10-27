@@ -997,6 +997,7 @@ domain_suffix_set:
   - bibaodao.com
   - bidchance.com
   - biddingx.com
+  - bigdatacq.com
   - bihu.com
   - biji.com
   - biliapi.com
@@ -1351,6 +1352,8 @@ domain_suffix_set:
   - cdntip.com
   - cdntips.com
   - cdntips.net
+  - cdrcb.com
+  - cdrcbank.com
   - cdut.top
   - ceair.com
   - cebbank.com
@@ -1522,6 +1525,7 @@ domain_suffix_set:
   - clangcn.com
   - clawhub-mirror.com
   - clawhubmirror.com
+  - cldisk.com
   - cleargrass.com
   - clewm.net
   - cli.im
@@ -1738,10 +1742,12 @@ domain_suffix_set:
   - cpu.baidu.com
   - cqcb.com
   - cqccn.com
+  - cqdcg.com
   - cqliving.com
   - cqnews.net
   - cqsjb.com
   - cqvip.com
+  - cqyyxc.com
   - cr-cts.com
   - cr173.com
   - crash.163.com
@@ -1941,6 +1947,7 @@ domain_suffix_set:
   - didichuxing.com
   - didistatic.com
   - dig.bdurl.net
+  - digitalcnzz.com
   - digitaling.com
   - dili360.com
   - dingdachuxing.com
@@ -2140,6 +2147,7 @@ domain_suffix_set:
   - e.qq.com
   - e.stat.ykimg.com
   - eagsen.com
+  - easemob.com
   - easesale.com
   - easiu.com
   - eastday.com
@@ -2332,6 +2340,7 @@ domain_suffix_set:
   - fhldns.com
   - fhyx.com
   - filez.com
+  - filmorigin.com
   - fimmu.com
   - finchina.com
   - finclip.com
@@ -2993,6 +3002,7 @@ domain_suffix_set:
   - iadmusicmatvideo.music.126.net
   - ialicdn.com
   - iask.com
+  - ibangbank.com
   - ibaotu.com
   - ibcet.org
   - ibdxiguaimg.com
@@ -3153,6 +3163,7 @@ domain_suffix_set:
   - ishijue.com
   - ishumei.com
   - ishuqi.com
+  - isigning.com
   - ispqcloud.com
   - istoreos.com
   - isvjcloud.com
@@ -3328,7 +3339,6 @@ domain_suffix_set:
   - jikecdn.com
   - jikeiot.cloud
   - jikexueyuan.com
-  - jikipedia.com
   - jimeng.com
   - jin10.com
   - jinchutou.com
@@ -3485,6 +3495,7 @@ domain_suffix_set:
   - kaipuyun.net
   - kaixin001.com
   - kajicam.com
+  - kakaxing.com
   - kameng98.com
   - kanbox.com
   - kanimg.com
@@ -4103,7 +4114,6 @@ domain_suffix_set:
   - modelarts-infer.com
   - modelarts-maas.com
   - moedu.com
-  - moegirl.org
   - mofang.com
   - mofazhu.com
   - mogoo.com
@@ -4218,6 +4228,7 @@ domain_suffix_set:
   - naixuecha.com
   - namiso.com
   - nanhaicorp.com
+  - nanocorechip.com
   - nanyuenews.com
   - narwal.com
   - narwaltech.com
@@ -5119,6 +5130,8 @@ domain_suffix_set:
   - szlcsc.com
   - sznews.com
   - szpgm.com
+  - szu.app
+  - szu.moe
   - szzfgjj.com
   - t00ls.cc
   - t00ls.net
@@ -6083,6 +6096,7 @@ domain_suffix_set:
   - xiaoluyouxuan.com
   - xiaoluzhidian.com
   - xiaomaicn.com
+  - xiaomaigui.com
   - xiaomengai.com
   - xiaomi.com
   - xiaomi.net
@@ -6209,6 +6223,7 @@ domain_suffix_set:
   - xuexi365.com
   - xuexi365.net
   - xuexicha.com
+  - xuexitong.com
   - xundupdf.com
   - xunfeixxj.com
   - xunjiepdf.com

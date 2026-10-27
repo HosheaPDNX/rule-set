@@ -2,15 +2,11 @@
     "version": 5,
     "rules": [
         {
-            "domain": [
-                "netflix.com.edgesuite.net"
-            ]
-        },
-        {
             "domain_suffix": [
                 "fast.com",
                 "netflix.ca",
                 "netflix.com",
+                "netflix.com.edgesuite.net",
                 "netflix.net",
                 "netflixdnstest0.com",
                 "netflixdnstest1.com",

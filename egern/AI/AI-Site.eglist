@@ -4,6 +4,9 @@ domain_set:
   - alkalimakersuite-pa.clients6.google.com
   - antigravity-pa.googleapis.com
   - antigravity.googleapis.com
+  - appsgenaiserver-pa.clients.google.com
+  - appsgenaiserver-pa.clients6.google.com
+  - appsgenaiserver-pa.googleapis.com
   - browser-intake-datadoghq.com
   - cloudaicompanion.googleapis.com
   - cloudcode-pa.googleapis.com
@@ -18,6 +21,7 @@ domain_set:
   - notebooklm-pa.googleapis.com
   - notebooklm.googleapis.com
   - o33249.ingest.sentry.io
+  - o33249.ingest.us.sentry.io
   - openai.qualtrics.com
   - openaiapi-site.azureedge.net
   - openaiassets.blob.core.windows.net
@@ -36,14 +40,18 @@ domain_suffix_set:
   - aida.googleapis.com
   - aisandbox-pa.googleapis.com
   - aistudio.google.com
+  - ant.dev
   - anthropic.com
+  - anthropic.team
   - antigravity-unleash.goog
   - antigravity.google
+  - antspace.dev
   - anythingllm.com
   - arena.ai
   - bard.google.com
   - cerebras.ai
   - chat.com
+  - chatbotclaude.com
   - chatgpt.com
   - chatgpt.livekit.cloud
   - chatgpt.site
@@ -53,10 +61,16 @@ domain_suffix_set:
   - ciciaicdn.com
   - clau.de
   - claude.ai
+  - claude.app
   - claude.com
   - claude.dev
+  - claude.new
+  - claude.site
+  - claudeacademy.com
   - claudemcpclient.com
   - claudemcpcontent.com
+  - claudepages.dev
+  - claudestudio.com
   - claudeusercontent.com
   - clawhub.ai
   - clipdrop.co
@@ -80,6 +94,7 @@ domain_suffix_set:
   - cursor.com
   - cursor.sh
   - cursorapi.com
+  - cursorvm.com
   - deepmind.com
   - deepmind.google
   - deepwiki.com
@@ -131,6 +146,7 @@ domain_suffix_set:
   - lmstudio.ai
   - lovart.ai
   - lpsnmedia.net
+  - magnific.com
   - makersuite.google.com
   - manus.im
   - manuscdn.com
@@ -157,6 +173,7 @@ domain_suffix_set:
   - opal.google.com
   - openai.com
   - openai.com.cdn.cloudflare.net
+  - openai.org
   - openart.ai
   - openclaw.ai
   - opencode.ai
@@ -176,12 +193,14 @@ domain_suffix_set:
   - sora.com
   - spicywriter.com
   - stitch.withgoogle.com
+  - syntx.ai
   - talkai.info
   - tapnow.ai
   - themeforest.net
   - trae.ai
   - tripo3d.ai
   - turn.livekit.cloud
+  - typesafe.ai
   - windsurf.build
   - windsurf.com
   - x.ai

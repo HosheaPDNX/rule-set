@@ -2506,6 +2506,9 @@ domain_suffix_set:
   - 7-zip-ao.com.cn
   - 7-zip-em.com.cn
   - 7-zip-en.com.cn
+  - 7-zip-zh.cn
+  - 7-zip-zstd.cn
+  - 7-zip.ac.cn
   - 7.e15etto89hg58nxvm2nqr8te9ye4owctchppff.cfd
   - 7.jwclay.com
   - 7.seventhings.com
@@ -2793,7 +2796,11 @@ domain_suffix_set:
   - 7z3mn9x7i.com
   - 7zip-ah.com.cn
   - 7zip-an.com.cn
+  - 7zip.dev
+  - 7zip.net.cn
+  - 7zip.org.cn
   - 7zivoy6qs.com
+  - 7zzip.cn
   - 8.l9kqpv4hpbn5l7hpqck9t3.cyou
   - 8.qtqlvy3cww2cnkipfr442vt.cfd
   - 800482112b.com
@@ -10534,6 +10541,7 @@ domain_suffix_set:
   - ai-anjian.com.cn
   - ai-anjianjingling.com.cn
   - ai-coloros.com.cn
+  - ai-doubao.com.cn
   - ai-fuxinpdf.com.cn
   - ai-gaitubao.com.cn
   - ai-gaoding.com.cn
@@ -14318,6 +14326,7 @@ domain_suffix_set:
   - aoyzivvtxwzev.online
   - aozmpm.jwell.com
   - ap-hanjutv.com.cn
+  - ap-ludashi.com.cn
   - ap-wangyimumu.com.cn
   - ap-wangyiyun.com.cn
   - ap-yyyuyin.com.cn
@@ -15622,6 +15631,7 @@ domain_suffix_set:
   - apjcc.magbak.com
   - apkomwofwbbjt.space
   - apkonline.ru
+  - apkpure.com
   - apkyeimuizlax.space
   - apl.headlines.pw
   - aplasted.com
@@ -16541,6 +16551,7 @@ domain_suffix_set:
   - apps-chrome-zh.hl.cn
   - apps-chrome-zhcn.hl.cn
   - apps-clash-zh.com.cn
+  - apps-dingding.com.cn
   - apps-for-pc.com
   - apps-googgle-chrome.hl.cn
   - apps-google-cchrome.hl.cn
@@ -21845,6 +21856,10 @@ domain_suffix_set:
   - bodem.bio-kultura.nl
   - bodi9.georgiaspacompany.com
   - bodian-cp.com.cn
+  - bodian-ty.com.cn
+  - bodianmusic.hl.cn
+  - bodianr.com.cn
+  - bodianye.com.cn
   - bodilysubtractoversight.com
   - bodilywondering.com
   - bodingsunitedtimings.cyou
@@ -25542,6 +25557,7 @@ domain_suffix_set:
   - cdn-plugin-sync-upgrade-juui.hismarttv.com
   - cdn-px-v1.metrix.az
   - cdn-qc.coccoc.com
+  - cdn-qishui.com.cn
   - cdn-ra.rockcontent.com
   - cdn-redirector.glopal.com
   - cdn-rtb.sape.ru
@@ -41394,6 +41410,7 @@ domain_suffix_set:
   - dinetannery.com
   - dingbu.bj.bcebos.com
   - dingbuckle.com
+  - dingdingc.com.cn
   - dingebeek.com
   - dingeyskolobustheatry.cfd
   - dinginghaiti.qpon
@@ -42545,6 +42562,8 @@ domain_suffix_set:
   - dotsrv.com
   - dottledecimus.qpon
   - dottodatacenter.net
+  - doubao-ie.com.cn
+  - doubaonow.com.cn
   - double-check.com
   - double.net
   - doubleadserve.com
@@ -42617,6 +42636,7 @@ domain_suffix_set:
   - downwardsuperioraching.com
   - downyattainprojects.com
   - downybrushed.com
+  - downza.cn
   - dowrrav.com
   - dowryhandgripballot.com
   - dowrysprinkle.com
@@ -71438,6 +71458,7 @@ domain_suffix_set:
   - itmamoswineer.com
   - itmcash.com
   - itmmgk.ilgufo.com
+  - itmop.com
   - itncnkednsqt.com
   - itnnzkipjcxxt.space
   - itnwcttnwedtk.site
@@ -74180,6 +74201,7 @@ domain_suffix_set:
   - kaira18.com
   - kaiseki-website.com
   - kaiu-marketing.com
+  - kaivlian.com.cn
   - kaizenplatform.net
   - kajads.com
   - kajudev.biliart.com.br
@@ -85520,6 +85542,8 @@ domain_suffix_set:
   - lucrinearraign.com
   - lucx.tangleteezer.com
   - lucy.lifemd.com
+  - ludashi-lr.com.cn
+  - ludashiapp.com.cn
   - ludhs.walkerandhunt.com
   - ludicrousarch.com
   - ludmilla.anunciojuridico.com.br
@@ -85973,6 +85997,7 @@ domain_suffix_set:
   - m-fb.site
   - m-fecabook.com
   - m-feccabook.info
+  - m-line.com.cn
   - m-live.jp
   - m-metrics.capitalone.com
   - m-pathy.com
@@ -101168,6 +101193,7 @@ domain_suffix_set:
   - onlineapi.youappi.com
   - onlinebank-shopee.vn
   - onlinebanking-shopee.vn
+  - onlinedown.net
   - onlinehentai.tv
   - onlinemediahelper.com
   - onlineporno.fun
@@ -154024,6 +154050,7 @@ domain_suffix_set:
   - tapsense.com
   - tapstat.ru
   - tapstream.com
+  - taptapplay.com.cn
   - tapulgospoda.com
   - tapulsads.ru
   - taqrr.fromourplace.co.uk
@@ -154618,6 +154645,7 @@ domain_suffix_set:
   - tbsyaf.vtutor.com
   - tbt.btb.info
   - tbthrfrgkqltpw.com
+  - tbtool.ijinshan.com
   - tburybrcvclih.online
   - tbuujyqojwgrz.site
   - tbvjrd.gocase.com.br
@@ -174656,6 +174684,7 @@ domain_suffix_set:
   - www-google.ac.cn
   - www-icloud.com
   - www-icloudid.com
+  - www-ludashi.cn
   - www-mfacebook.com.vn
   - www-mt.daiichisankyo-hc.co.jp
   - www-path.com

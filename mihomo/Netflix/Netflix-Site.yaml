@@ -1,8 +1,8 @@
 payload:
-- 'netflix.com.edgesuite.net'
 - '+.fast.com'
 - '+.netflix.ca'
 - '+.netflix.com'
+- '+.netflix.com.edgesuite.net'
 - '+.netflix.net'
 - '+.netflixdnstest0.com'
 - '+.netflixdnstest1.com'
