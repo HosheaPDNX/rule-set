@@ -205,6 +205,7 @@ payload:
 - DOMAIN-SUFFIX,bingapistatistics.com
 - DOMAIN-SUFFIX,bingparachute.com
 - DOMAIN-SUFFIX,bingsandbox.com
+- DOMAIN-SUFFIX,bingstatic.com
 - DOMAIN-SUFFIX,bingvisualsearch.com
 - DOMAIN-SUFFIX,bingworld.com
 - DOMAIN-SUFFIX,blazor.net
@@ -506,6 +507,7 @@ payload:
 - DOMAIN-SUFFIX,msfteducation.ca
 - DOMAIN-SUFFIX,msftncsi.com
 - DOMAIN-SUFFIX,msftnet.org
+- DOMAIN-SUFFIX,msftstatic.com
 - DOMAIN-SUFFIX,msgamesresearch.com
 - DOMAIN-SUFFIX,msgamestudios.com
 - DOMAIN-SUFFIX,mshome.net

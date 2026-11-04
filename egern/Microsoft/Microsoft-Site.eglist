@@ -206,6 +206,7 @@ domain_suffix_set:
   - bingapistatistics.com
   - bingparachute.com
   - bingsandbox.com
+  - bingstatic.com
   - bingvisualsearch.com
   - bingworld.com
   - blazor.net
@@ -507,6 +508,7 @@ domain_suffix_set:
   - msfteducation.ca
   - msftncsi.com
   - msftnet.org
+  - msftstatic.com
   - msgamesresearch.com
   - msgamestudios.com
   - mshome.net

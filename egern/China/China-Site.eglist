@@ -679,6 +679,7 @@ domain_suffix_set:
   - alittle-tea.com
   - alitui.weibo.com
   - aliunicorn.com
+  - alivecdn.com
   - aliway.com
   - aliwork.com
   - aliwx.net
@@ -701,6 +702,7 @@ domain_suffix_set:
   - allday.work
   - allhistory.com
   - alloyteam.com
+  - allwinnertech.com
   - allyes.com
   - alog.umeng.com
   - alog.umengcloud.com
@@ -1098,6 +1100,7 @@ domain_suffix_set:
   - building.fun
   - buke999.com
   - burningvocabulary.com
+  - busyming.com
   - buydouke.com
   - buyjingxi.com
   - bvfcdn.com
@@ -1243,6 +1246,7 @@ domain_suffix_set:
   - caiyunapp.com
   - caiyuncdn.com
   - calorietech.com
+  - cambricon.com
   - camcard.com
   - camscanner.com
   - cang.com
@@ -2038,6 +2042,7 @@ domain_suffix_set:
   - doubanio.com
   - doubao-dev.com
   - doubao.com
+  - doubaoapps.com
   - doubaocdn.com
   - doubo03.com
   - doucang.com
@@ -2184,6 +2189,7 @@ domain_suffix_set:
   - ecombdstatic.com
   - ecombdvod.com
   - ecukwai.com
+  - edge-byted.com
   - edgeceler.com
   - edgemonix.top
   - edgeone.cool
@@ -2280,6 +2286,9 @@ domain_suffix_set:
   - fastadmin.net
   - fastapi.net
   - fastcdn.com
+  - favonis.cloud
+  - favonis.com
+  - favonis.space
   - faxingbao.com
   - fbank.com
   - fcapp.run
@@ -2690,6 +2699,7 @@ domain_suffix_set:
   - haier.net
   - haiersmarthomes.com
   - hailuoai.com
+  - haimian.com
   - hainanairlines.com
   - haishun.com
   - halvie.com
@@ -2816,6 +2826,7 @@ domain_suffix_set:
   - hnchasing.com
   - hncsmtr.com
   - hndt.com
+  - hnlshm.com
   - hnol.net
   - hnrcsc.com
   - hntv.tv
@@ -4102,6 +4113,12 @@ domain_suffix_set:
   - mmbang.com
   - mmbang.info
   - mmstat.com
+  - mnc000.mcc460.pub.3gppnetwork.org
+  - mnc002.mcc460.pub.3gppnetwork.org
+  - mnc004.mcc460.pub.3gppnetwork.org
+  - mnc007.mcc460.pub.3gppnetwork.org
+  - mnc011.mcc460.pub.3gppnetwork.org
+  - mnc015.mcc460.pub.3gppnetwork.org
   - mndqlib.net
   - mob.com
   - mobads-logs.baidu.com
@@ -4161,6 +4178,7 @@ domain_suffix_set:
   - mszdld.com
   - mszdld.net
   - mszq.com
+  - mthreads.com
   - mti100.com
   - mtime.com
   - mting.info
@@ -4621,6 +4639,7 @@ domain_suffix_set:
   - qianyierp.com
   - qianzhan.com
   - qiaobutang.com
+  - qiaqiafood.com
   - qichacha.com
   - qichamao.com
   - qidian.com
@@ -5032,6 +5051,7 @@ domain_suffix_set:
   - soufunimg.com
   - soulteary.com
   - souqian.com
+  - southchip.com
   - southcn.com
   - southmoney.com
   - sparenode.com
@@ -5305,6 +5325,7 @@ domain_suffix_set:
   - tendis.net
   - tengmed.com
   - tenpay.com
+  - tenpayglobal.com
   - tenxcloud.com
   - tesoon.com
   - test-cignacmb.com
@@ -5929,6 +5950,7 @@ domain_suffix_set:
   - wenxiaozhan.net
   - wenxin-ge.com
   - west95582.com
+  - wesure100.com
   - weui.io
   - wework-studio.com
   - wf.pub
@@ -6648,6 +6670,7 @@ domain_suffix_set:
   - zxxk.com
   - zybang.com
   - zyh365.com
+  - zymls.com
   - zysn.net
   - zysou.com
   - zyyct.com
