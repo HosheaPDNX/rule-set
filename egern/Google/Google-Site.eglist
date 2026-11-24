@@ -332,6 +332,7 @@ domain_suffix_set:
   - gateway.dev
   - gbiz
   - gcr.io
+  - gemma.ai
   - gerritcodereview.com
   - get.app
   - get.dev
